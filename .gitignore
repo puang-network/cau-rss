@@ -1,3 +1,5 @@
+public/
+*.tmp
 .vscode
 cau-rss
 coverage.out
